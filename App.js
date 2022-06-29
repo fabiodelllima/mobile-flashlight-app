@@ -63,7 +63,7 @@ const style = StyleSheet.create({
   },
   containerFlashlightOn: {
     flex: 1,
-    backgroundColor: 'white',
+    backgroundColor: 'black',
     alignItems: 'center',
     justifyContent: 'center',
   },
