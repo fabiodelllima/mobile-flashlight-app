@@ -2,14 +2,14 @@
   "expo": {
     "name": "Flashlight",
     "slug": "Flashlight",
-    "version": "1.0.0",
+    "version": "1.1",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/icon-flashlight.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/splash-flashlight.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#000000"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
@@ -23,13 +23,13 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#FFFFFF"
+        "foregroundImage": "./assets/adaptive-icon-flashlight.png",
+        "backgroundColor": "#000000"
       },
       "package": "com.fabiodelllima.Flashlight"
     },
     "web": {
-      "favicon": "./assets/favicon.png"
+      "favicon": "./assets/favicon-flashlight.png"
     }
   }
 }
