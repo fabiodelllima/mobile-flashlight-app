@@ -30,6 +30,11 @@
     },
     "web": {
       "favicon": "./assets/favicon-flashlight.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "01d8294d-21fb-4d1f-acc6-3a5ceeb4de5b"
+      }
     }
   }
 }
