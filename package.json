@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@xmldom/xmldom": "^0.8.7",
-    "expo": "~48.0.12",
+    "expo": "~49.0.6",
     "expo-camera": "~13.2.1",
     "expo-sensors": "^12.1.1",
     "expo-shake": "^1.0.0-alpha.1",
