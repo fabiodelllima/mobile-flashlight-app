@@ -3254,10 +3254,10 @@ expo-modules-core@1.5.11:
     compare-versions "^3.4.0"
     invariant "^2.2.4"
 
-expo-sensors@^12.1.1:
-  version "12.1.1"
-  resolved "https://registry.yarnpkg.com/expo-sensors/-/expo-sensors-12.1.1.tgz#68dd7a1426c7c40d6e0435e9528064aa3102174b"
-  integrity sha512-b5vaz1vAXO9kPXZ06a0hxoSkL4VXtJyEb6Qatpu7jLgThhzKcHOWjOHFvr/hqB4nat6uaRLXii+F1CwcoBMnpQ==
+expo-sensors@^12.5.0:
+  version "12.5.0"
+  resolved "https://registry.yarnpkg.com/expo-sensors/-/expo-sensors-12.5.0.tgz#30efbfda26184372a0972d79c6923ed2f4a2b137"
+  integrity sha512-5frGID37HFiKw9s0KCtuCnqD3gWYx7O8BU1oybJ9+qxiQ4emZoJzu0P7czV8D8cRTphv93ltkxqi2GXSTNSI8A==
   dependencies:
     invariant "^2.2.4"
 
