@@ -15,7 +15,7 @@
     "expo-camera": "~13.2.1",
     "expo-sensors": "^12.1.1",
     "expo-shake": "^1.0.0-alpha.1",
-    "expo-status-bar": "~1.4.4",
+    "expo-status-bar": "~1.7.1",
     "expo-updates": "~0.18.13",
     "json5": "^2.2.3",
     "qs": "^6.11.2",
