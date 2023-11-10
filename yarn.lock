@@ -3253,10 +3253,10 @@ expo-shake@^1.0.0-alpha.1:
   resolved "https://registry.yarnpkg.com/expo-shake/-/expo-shake-1.0.0-alpha.1.tgz#e2b2f42e75066435efbe6732df17abe0834876e9"
   integrity sha512-+czyzQbIchSO720jHs931wFJHyHNX+ZXQjW+gwOKmpfm2zrON3J9mL5e3vtXCTvcplA26HUubyQK2pNCMuBhUw==
 
-expo-status-bar@~1.4.4:
-  version "1.4.4"
-  resolved "https://registry.yarnpkg.com/expo-status-bar/-/expo-status-bar-1.4.4.tgz#6874ccfda5a270d66f123a9f220735a76692d114"
-  integrity sha512-5DV0hIEWgatSC3UgQuAZBoQeaS9CqeWRZ3vzBR9R/+IUD87Adbi4FGhU10nymRqFXOizGsureButGZIXPs7zEA==
+expo-status-bar@~1.7.1:
+  version "1.7.1"
+  resolved "https://registry.yarnpkg.com/expo-status-bar/-/expo-status-bar-1.7.1.tgz#f2772a529187282eaa0741279ed8d525bdce54c4"
+  integrity sha512-Wkm9uCmuQQBSU+l/AekWAQ1d0FYw560yL116+OAKJDyKBOUpPURoWkFbabM1EDxv+5scTuSThr/CvsA0nsSCow==
 
 expo-structured-headers@~3.3.0:
   version "3.3.0"
